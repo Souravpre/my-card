@@ -1,0 +1,12 @@
+body {
+    background-color: orange;
+}
+
+#profile-pic {
+    border-radius: 50%;
+}
+
+#email-input {
+    border-radius: 50px;
+    padding: 10px;
+}
